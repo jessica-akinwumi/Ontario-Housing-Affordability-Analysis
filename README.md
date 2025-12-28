@@ -8,7 +8,6 @@ This project is an **end-to-end data analysis** examining housing affordability 
 The project demonstrates the ability to transform raw public data into clear, actionable insights using **Python, SQL, and data visualization tools**.
 
 ---
-
 ## Objectives
 The main goals of this project are to:
 * **Analyze** housing affordability trends across Ontario regions.
@@ -17,6 +16,25 @@ The main goals of this project are to:
 * **Track** changes in affordability and cost burdens.
 * **Present** insights in a clear, policy-relevant, and data-driven way.
 
+##  Project Scope 
+
+###  Geographic Boundaries
+* **Primary Focus:** Ontario, Canada.
+* **Regional Breakdown:** Analysis will focus on major **Census Metropolitan Areas (CMAs)**:
+    * Greater Toronto Area (GTA)
+    * Ottawa-Gatineau (Ontario side)
+    * Hamilton
+    * Kitchener-Cambridge-Waterloo
+    * London & Windsor
+
+###  Temporal Scope
+* **Timeline:** 2010 – 2024.
+* **Frequency:** Annual data points to highlight long-term structural shifts versus short-term market shocks (e.g., COVID-19 and 2023 rate hikes).
+
+### Data Definitions
+* **Housing:** Median Sales Price (All residential types).
+* **Income:** Median Total Household Income (Before-tax).
+* **Affordability Metric:** The "Affordability Ratio" ($Price / Income$) and "Mortgage Debt Service Ratio" (estimated monthly payment as a % of monthly income).
 ---
 
 ## Tools & Technologies
