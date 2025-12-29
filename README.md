@@ -122,4 +122,3 @@ This project aligns with Ontario public-sector priorities:
 ##  About the Author
 **Jessica Akinwumi** *Aspiring Data Analyst with a focus on public-sector analytics and housing policy.*
 
-[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
